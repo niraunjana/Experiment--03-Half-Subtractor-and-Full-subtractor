@@ -32,7 +32,9 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Write the detailed procedure here 
 
 
-## Program:
+
+## Program:!
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
@@ -40,15 +42,31 @@ RegisterNumber:
 */
 
 ## Output:
+![image](https://user-images.githubusercontent.com/119395610/212460096-c81c845f-82ac-461f-abc9-c7fe3ad8bbd2.png)
+![image](https://user-images.githubusercontent.com/119395610/212460108-e43c844a-ad62-450b-be3b-f3940444246c.png)
+
+
+
+
 
 ## Truthtable
 
 
 
-##  RTL realization
+##  RTL realization:
+![image](https://user-images.githubusercontent.com/119395610/212460123-b9e2b571-62bf-4b7e-afd5-52ae2dae018b.png)![image](https://user-images.githubusercontent.com/119395610/212460143-f963e93d-229d-4486-9e86-37cbe4a74c05.png)
 
 
-## Timing diagram 
+
+
+
+
+## Timing diagram :
+![image](https://user-images.githubusercontent.com/119395610/212460157-bc71a553-85ba-4b8f-a094-faf4baf74a4c.png)
+![image](https://user-images.githubusercontent.com/119395610/212460176-ec7c2def-a59e-423e-aa12-5ec3d52a26a7.png)
+
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
