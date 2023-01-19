@@ -25,11 +25,11 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
-## Procedure
+## Procedure:
+1. Using truth table construct the Half Subtractor and Full Subtractor.
+2. Find Rtl logic and timing diagram for all flipflops.
+3. End the program.
 
-
-
-Write the detailed procedure here 
 
 
 
@@ -37,8 +37,8 @@ Write the detailed procedure here
 
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NIRAUNJANA GAYATHRI G R
+RegisterNumber:  22008369
 */
 
 ## Output:
@@ -49,7 +49,10 @@ RegisterNumber:
 
 
 
-## Truthtable
+## Truthtable:
+![image](https://user-images.githubusercontent.com/119395610/213479866-f5c7425e-02db-485b-be6d-6d0a6d70d906.png)
+![image](https://user-images.githubusercontent.com/119395610/213479931-ce6358e7-9578-4ffa-af17-81464e770ac3.png)
+
 
 
 
